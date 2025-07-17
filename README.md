@@ -21,7 +21,6 @@
 
 - 💼 Profissional de TI com foco em **automação de processos**, **IA Generativa** e **integrações internas**  
 - 🧠 Crio soluções usando ferramentas **low-code, no-code e IA**, mesmo sem programar diretamente  
-- ⚙️ Experiência com **organização de dados**, **dashboards** e **eficiência operacional**  
 - 🚀 Acredito em tecnologia simples e acessível para resolver grandes problemas
 
 ---
