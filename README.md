@@ -29,9 +29,14 @@
 
 🔗 Acesse meu portfólio completo: [carlos-h-gomes.github.io/portfolio-carlos-hgomes](https://carlos-h-gomes.github.io/portfolio-carlos-hgomes/)
 
-- **📆 Férias e Folgas** – Gestão de calendário, squads e regras operacionais  
-- **🚨 Farol de Clientes** – Monitoramento de churn com planos de ação e dashboards  
-- **🧰 APIs Utilitárias** – Ferramentas de apoio para automações e validações
+- **📆 [Gerenciador de Férias e Folgas](https://github.com/carlos-h-gomes/gerenciador_ferias)**  
+  Gestão de calendário, squads e regras operacionais para controle de ausências
+
+- **🚨 [Farol de Clientes](https://github.com/carlos-h-gomes/farol_cx)**  
+  Monitoramento de churn, planos de ação, comunicação e dashboards de clientes
+
+- **🧰 [APIs Utilitárias](https://github.com/carlos-h-gomes/apis_utilitarias)**  
+  Coleção de endpoints auxiliares para automações com OCR, validações e integrações
 
 ---
 
