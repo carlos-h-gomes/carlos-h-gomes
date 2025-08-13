@@ -26,6 +26,22 @@
 
 🔗 **Full Portfolio** → [carlos-h-gomes.github.io/portfolio-carlos-hgomes](https://carlos-h-gomes.github.io/portfolio-carlos-hgomes/)
 
+- **🔍 Quality AI Assistant**  
+  Generative AI tool for automated analysis of customer interactions, providing quality insights and improvement suggestions.  
+  *Highlights:* Sentiment analysis | Automated quality checks | Actionable recommendations
+
+- **📊 BI Analytics Platform**  
+  End-to-end business intelligence solution replacing expensive third-party tools, delivering real-time dashboards and automated data pipelines.  
+  *Highlights:* Cost reduction | Real-time analytics | API-driven data ingestion
+
+- **🛠️ Customer Onboarding Portal**  
+  Interactive onboarding platform with guided flows, branding customization, and integrated forms for client setup.  
+  *Highlights:* Guided navigation | Multi-product structure | File uploads
+
+- **🤖 BotFlow Orchestrator**  
+  Visual chatbot flow manager with import/export automation and multi-platform support.  
+  *Highlights:* Automated flow editing | Multi-format compatibility | Group grouping logic
+
 - **📆 [Vacation & Leave Manager](https://github.com/carlos-h-gomes/gerenciador_ferias)**  
   Manage schedules, squads, and operational rules for absence control.
 
@@ -34,6 +50,7 @@
 
 - **🧰 [Utility APIs](https://github.com/carlos-h-gomes/apis_utilitarias)**  
   A collection of endpoints for OCR automation, data validation, and integrations.
+
 
 ---
 
